@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>256373790837-4kupgikon4ua307vb5ulgm4spo9s5oqn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.256373790837-4kupgikon4ua307vb5ulgm4spo9s5oqn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwdoQbEC4P1GW95c0HoH4moqszsZXygMw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256373790837</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Lucas.CrimeApp</string>
+	<key>PROJECT_ID</key>
+	<string>art-office-crime</string>
+	<key>STORAGE_BUCKET</key>
+	<string>art-office-crime.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256373790837:ios:d22d2cc0f752c7f3fec03c</string>
+	<key>DATABASE_URL</key>
+	<string>https://art-office-crime-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
